@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janis\\c#\\Git\\gcode\\Gcode\\Gcode.csproj": {}
+    "C:\\Users\\janis\\c#\\Git\\gcode_pcb_Marlin\\Gcode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janis\\c#\\Git\\gcode\\Gcode\\Gcode.csproj": {
+    "C:\\Users\\janis\\c#\\Git\\gcode_pcb_Marlin\\Gcode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janis\\c#\\Git\\gcode\\Gcode\\Gcode.csproj",
+        "projectUniqueName": "C:\\Users\\janis\\c#\\Git\\gcode_pcb_Marlin\\Gcode.csproj",
         "projectName": "Gcode",
-        "projectPath": "C:\\Users\\janis\\c#\\Git\\gcode\\Gcode\\Gcode.csproj",
+        "projectPath": "C:\\Users\\janis\\c#\\Git\\gcode_pcb_Marlin\\Gcode.csproj",
         "packagesPath": "C:\\Users\\janis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janis\\c#\\Git\\gcode\\Gcode\\obj\\",
+        "outputPath": "C:\\Users\\janis\\c#\\Git\\gcode_pcb_Marlin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
