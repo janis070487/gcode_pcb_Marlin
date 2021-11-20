@@ -1,0 +1,16 @@
+C:\Users\janis\c#\Git\gcode\Gcode\bin\Debug\net5.0\Gcode.exe
+C:\Users\janis\c#\Git\gcode\Gcode\bin\Debug\net5.0\Gcode.deps.json
+C:\Users\janis\c#\Git\gcode\Gcode\bin\Debug\net5.0\Gcode.runtimeconfig.json
+C:\Users\janis\c#\Git\gcode\Gcode\bin\Debug\net5.0\Gcode.runtimeconfig.dev.json
+C:\Users\janis\c#\Git\gcode\Gcode\bin\Debug\net5.0\Gcode.dll
+C:\Users\janis\c#\Git\gcode\Gcode\bin\Debug\net5.0\ref\Gcode.dll
+C:\Users\janis\c#\Git\gcode\Gcode\bin\Debug\net5.0\Gcode.pdb
+C:\Users\janis\c#\Git\gcode\Gcode\obj\Debug\net5.0\Gcode.csproj.AssemblyReference.cache
+C:\Users\janis\c#\Git\gcode\Gcode\obj\Debug\net5.0\Gcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janis\c#\Git\gcode\Gcode\obj\Debug\net5.0\Gcode.AssemblyInfoInputs.cache
+C:\Users\janis\c#\Git\gcode\Gcode\obj\Debug\net5.0\Gcode.AssemblyInfo.cs
+C:\Users\janis\c#\Git\gcode\Gcode\obj\Debug\net5.0\Gcode.csproj.CoreCompileInputs.cache
+C:\Users\janis\c#\Git\gcode\Gcode\obj\Debug\net5.0\Gcode.dll
+C:\Users\janis\c#\Git\gcode\Gcode\obj\Debug\net5.0\ref\Gcode.dll
+C:\Users\janis\c#\Git\gcode\Gcode\obj\Debug\net5.0\Gcode.pdb
+C:\Users\janis\c#\Git\gcode\Gcode\obj\Debug\net5.0\Gcode.genruntimeconfig.cache
