@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hc9z7ym3mLfZYP205l9IPrVNKHf7PiFEsTOh+I3VXlXnNZmNmLly0k54sgUJKFT1PxSmQSICyWFcr3rPE/mOjg==",
+  "dgSpecHash": "5K6I8KcG980k1FQTHWe7D3dbHK/ewbunzwWox59dGepZH6Jw0DVFTJgLzY2p5mNdKnu+WXcvM84CPjXvF2fkRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\janis\\c#\\Git\\gcode_pcb_Marlin\\Gcode.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\janis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

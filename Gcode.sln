@@ -7,12 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gcode", "Gcode.csproj", "{0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{722D1EB9-EE14-4FC2-8655-401800190511}"
 	ProjectSection(SolutionItems) = preProject
-		File.cs = File.cs
-		Move.cs = Move.cs
-		Paint.cs = Paint.cs
-		Point.cs = Point.cs
-		Printer.cs = Printer.cs
-		start.cs = start.cs
+		FailLoad.cs = FailLoad.cs
 	EndProjectSection
 EndProject
 Global

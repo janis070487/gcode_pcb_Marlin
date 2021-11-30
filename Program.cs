@@ -1,21 +1,19 @@
 ﻿using System;
-
+using System.IO;
 namespace Gcode
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            Point point = new Point();
-           // poin = 1.0;
-            string path = "test_gcode";
-
-            File file = new File();
-            file.add(Start.start());
-            file.add(Move.UpZ());
-
-            file.save(path);
+            String[] data = null;
+            string path = "test_gcode.txt";
+           FileLoad f = new FileLoad(path);
+            f.Load(ref data);
+            for(int i = 0; i < data.Length; i++)
+            {
+                Console.WriteLine(data[i]);
+            }
         }
     }
 }
